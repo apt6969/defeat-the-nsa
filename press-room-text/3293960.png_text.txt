@@ -1,0 +1,92 @@
+An official website of the United States government
+
+About PressRoom Careers History Search NSA
+
+PRESS RELEASE VIEW
+
+#StopRansomware: Ransomware /
+Attacks on Critical Infrastructure’,
+Fund DPRK Malicious Cyber y)
+
+Activities %
+
+CYBERSECURITY ADVISORY
+
+PRESS RELEASE | Feb. 9, 2023
+
+U.S., South Korean Agencies
+Partner to #StopRansomware
+Threat from DPRK
+
+FORT MEADE, Md. — The National Security Agency (NSA) partnered with U.S.
+and South Korean government agencies to
+
+about the Democratic People's Republic of Korea (DPRK)
+ransomware threat.
+
+The "
+
+" advisory shares recently observed tactics,
+techniques, and procedures (TTPs) used by DPRK cyber actors in ransomware
+attacks against the U.S. and South Korean healthcare systems, as well as other
+critical infrastructure. The report also includes mitigations to help organizations
+protect against the ransomware threat.
+
+The Cybersecurity and Infrastructure Security Agency (CISA), the Federal
+Bureau of Investigations (FBI), the U.S. Department of Health and Human
+Services (HHS), and the Republic of Korea's National Intelligence Service (NIS)
+and Defense Security Agency (DSA) joined the NSA in releasing this new
+advisory. The report is part of the #StopRansomware effort to counter this
+ongoing threat and updates the joint CISA, FBI, and U.S. Department of
+Treasury Cybersecurity Advisory released in July, "North Korean State-
+Sponsored Cyber Actors Use Maui Ransomware to Target the Healthcare and
+Public Health Sector."
+
+DPRK cyber actors have been using cryptocurrency generated through illicit
+cybercrime activities to procure infrastructure such as IP addresses and
+domains. The actors intend to conceal their affiliation and then exploit common
+vulnerabilities and exposures (CVE) in order to gain access and escalate
+privileges on targeted networks to perform ransomware activities.
+
+Recently observed CVEs include remote code execution in the Apache Log4j
+software library (also Known as "Log4Shell") and remote code execution in
+various SonicWall appliances.
+
+NSA and the other authoring agencies urge all critical infrastructure entities and
+
+organizations, including the Healthcare and Public Health (HPH) Sector, and the
+Department of Defense and Defense Industrial Base, to apply the mitigations
+
+443-634-0721
+
+Related Press Advisories
+
+Related Documents
+
+NSA.GOV CULTURE HELPFUL LINKS RESOURCES RELATED LINKS
+About Core Values NSA Freedom of Information Act Classified Materiel Conversion DNI.gov
+
+. . a: Privacy Act Requests Commercial Solutions for
+Leadership Operating Authorities y q Classified Program (CSfC) Defense.gov
+
+Cybersecurity Collaboration Civil Liberties, Privacy, & Request a Speaker
+
+Center Cryptographic Support Services IC on the Record
+
+Transparency Office
+
+Prepublication Review
+
+National Cryptologic Museum Media Destruction Guidance Intelligence.gov
+
+Diversity, Equity, Inclusion, & ;
+Contact NSA Accessibility Media Inquiry NSA Open Source
+Accessibility General Counsel Frequently Asked Questions NSA Exhibit Roadshow
+ABA Notice NSA Inspector General
+
+Site Policies
+
+Ye
+Privacy & Security Links Disclaimer Section508 WebPolicy Plain WritingAct DODIG NoFEARAct ImageryUse FOIA OpenGOV_ Strategic Plan USA.gov Small Business Act Site Map f y in »
+
+Hosted by Defense Media Activity - WEB.mil

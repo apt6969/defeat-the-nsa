@@ -1,0 +1,114 @@
+An official website of the United States government
+
+About PressRoom Careers History Search NSA
+
+7 ge» | National Cyber
+Rare “yp &2°|Security Centre
+
+| ae Communications Centre de la sécurité
+Security Establishment des télécommunications
+
+* Australian Government /- a Cc C :
+$* Australian Signals Directorate NRO) Canadian Centre Centre canadien _
+for Cyber Security pour la cybersécurité
+
+Federal Office
+for Information Security
+
+ty mene CertNZ security Centre
+
+, Risk: Principles and Approaches for
+Security-by-Design and Default
+
+hifting the Balance of Cybersecurity
+
+CYBERSECURITY INFORMATION SHEET
+
+PRESS RELEASE | April 13, 2023
+
+NSA, U.S. and International Partners
+Issue Guidance on Securing
+Technology by Design and Default
+
+FORT MEADE, Md. - The Cybersecurity and Infrastructure Security
+Agency (CISA), the National Security Agency (NSA), and the Federal
+Bureau of Investigation (FBI) are partnering with international partners’
+cybersecurity agencies to encourage technology manufacturers to create
+products that are secure-by-design and secure-by-default.
+
+The group of nine agencies has published the Cybersecurity Information
+Sheet, “Shifting the Balance of Cybersecurity Risk: Principles and
+Approaches for Security-by-Design and Default,” to raise awareness and
+facilitate international conversations about key priorities, investments,
+and decisions necessary to manufacture technology that is safe, secure,
+and resilient.
+
+“Insecure technology products can pose risks to individual users and our
+national security,’ said NSA Cybersecurity Director Rob Joyce. “If
+manufacturers consistently prioritize security during design and
+development, we can reduce the number of malicious cyber intrusions
+we see. The international coalition partnering on this report speaks to the
+importance of this issue.”
+
+The international coalition includes Australia’s Cyber Security Centre
+ACSC), Canada’s Centre for Cyber Security (CCCS), Germany’s Federal
+Office for Information Security (BSI), the UK’s National Cyber Security
+Centre (NCSC-UK), Netherlands’ National Cyber Security Centre (NCSC-
+
+L), and New Zealand’s Computer Emergency Response Team (CERT
+Z) and National Cyber Security Centre (NZ NCSC).
+
+nthe new report, the agencies highlight the importance of prioritizing
+security throughout a product's lifecycle to reduce the likelihood of
+security incidents. The principles ensure technology products are built
+and configured in a way that protects against malicious cyber actors
+gaining access to devices, data, and connected infrastructure.
+
+NSA and its partners recommend technology manufacturers and
+organization executives prioritize the implementation of secure-by-design
+and default principles outlined in the report.
+
+In addition to the recommendations listed in the report, the authoring
+agencies encourage the use of the
+also known as the National Institute of Standards
+and Technology's (NIST) SP 800-218. The SSDF helps software
+producers become more effective at finding and removing vulnerabilities
+in released software, mitigate the potential impact of the exploitation of
+vulnerabilities, and address the root causes of vulnerabilities to prevent
+future recurrences.
+
+NSA Media Relations
+
+443-634-0721
+
+Related Press Advisories
+
+Related Documents
+
+NSA.GOV CULTURE HELPFUL LINKS RESOURCES RELATED LINKS
+About Core Values NSA Freedom of Information Act Classified Materiel Conversion DNI.gov
+
+. . a: Privacy Act Requests Commercial Solutions for
+Leadership Operating Authorities y q Classified Program (CSfC) Defense.gov
+
+Cybersecurity Collaboration Civil Liberties, Privacy, & Request a Speaker
+
+Center Cryptographic Support Services IC on the Record
+
+\Meisioeiteinesy Ones Prepublication Review
+
+National Cryptologic Museum Media Destruction Guidance Intelligence.gov
+
+Diversity, Equity, Inclusion, & ;
+Contact NSA Accessibility Media Inquiry NSA Open Source
+
+Accessibility General Counsel Frequently Asked Questions NSA Exhibit Roadshow
+
+ABA Notice NSA Inspector General
+
+Site Policies
+
+Ye
+Privacy & Security Links Disclaimer Section508 WebPolicy Plain WritingAct DODIG NoFEARAct ImageryUse FOIA OpenGOV_ Strategic Plan USA.gov Small Business Act Site Map f vy rite in >)
+
+Hosted by Defense Media Activity - WEB.mil

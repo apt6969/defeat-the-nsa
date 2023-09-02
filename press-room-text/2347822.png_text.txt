@@ -1,0 +1,59 @@
+An official website of the United States government Here's how you know
+
+National Security Agency/Central security Service About PressRoom Careers History Search NSA
+
+HOME > PRESS ROOM > PRESS RELEASES & STATEMENTS > PRESS RELEASE VIEW
+PRESS RELEASE | Sept. 15, 2020
+
+NSA Releases Cybersecurity
+Technical Report on UEFI Secure
+Boot Customization
+NSA
+
+WASHINGTON —
+The National Security Agency has released a UEFI Secure Boot
+Customization Cybersecurity Technical Report that provides detailed
+recommendations for customizing Secure Boot to better protect against
+firmware exploitation - a means attackers can use to gain persistent
+access to victim networks.
+
+Secure Boot customization enables administrators to realize the benefits
+of boot malware defenses, insider threat mitigations, and data-at-rest
+protections. This product encourages National Security System (NSS),
+Department of Defense (DoD), and Defense Industrial Base (DIB) system
+administrators to customize Secure Boot instead of disabling it for
+compatibility issues.
+
+This product follows NSA‘s 30 July advisory release on the
+GRUB BootHole vulnerability and is published as part of NSA’s mission to
+help secure NSS, DoD, and DIB systems.
+
+The full product can be viewed here.
+
+cybersecurity
+
+NSA.GOV CULTURE HELPFUL LINKS RESOURCES RELATED LINKS
+About Core Values NSA Freedom of Information Act Classified Materiel Conversion DNI.gov
+
+. . a: Privacy Act Requests Commercial Solutions for
+Leadership Operating Authorities Y q Classified Program (CSfC) Defense.gov
+
+Cybersecurity Collaboration Civil Liberties, Privacy, & Request a Speaker
+
+Cent Cryptographic Support Services IC on the Record
+enter Transparency Office p blication Revi
+National Cryptologic Museum repuniication review Media Destruction Guidance Intelligence.gov
+
+Diversity, Equity, Inclusion, &
+
+Contact NSA Accessibility Media Inquiry NSA Open Source
+Frequently Asked Questions NSA Exhibit Roadshow
+
+Accessibility General Counsel
+ABA Notice NSA Inspector General
+
+Site Policies
+
+Privacy & Security Links Disclaimer Section508 WebPolicy Plain WritingAct DODIG NoFEARAct ImageryUse FOIA OpenGOV_ Strategic Plan USA.gov Small Business Act Site Map
+
+Hosted by Defense Media Activity - WEB.mil

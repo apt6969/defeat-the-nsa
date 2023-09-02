@@ -1,0 +1,99 @@
+© An official website of the United States government
+
+| National Security Agency/Central security Service About PressRoom Careers History Search NSA
+
+PRESS RELEASE VIEW
+
+OPEN RADIO ACCESS
+NETWORK SECURITY
+CONSIDERATIONS °
+
+STON TEC,
+SS Lo,
+% ge
+
+PRESS RELEASE | Sept. 15, 2022
+
+ESF Members, NSA and CISA
+publish Open Radio Access
+Network Security Considerations
+
+FORT MEADE, Md. — The National Security Agency (NSA) and the
+Cybersecurity and Infrastructure Security Agency (CISA), through the Enduring
+Security Framework (ESF), have
+
+Open RAN is the industry term for the evolution of traditional proprietary RAN
+architecture to an open ecosystem of interoperable hardware, software, and
+Artificial Intelligence/Machine Learning enabled intelligent network optimization.
+Shifting to an Open RAN based mobile network allows for interoperability
+between different suppliers, removing the proprietary nature of traditional RAN
+and reliance on a single vendor.
+
+The ESF working panel focused on security considerations for several key
+technical aspects of Open RAN: multi-vendor management, the Open Fronthaul
+connecting radios to base station equipment, a new RAN application framework
+comprising rApps and xApps that use Al/ML for RAN optimization, and other
+general network considerations including open source software, virtualization,
+and a cloud based 5G core network.
+
+"Security considerations always emerge in new open systems aiming for
+improved cost, performance, and supply chain benefits" said Jorge Laurel, ESF
+Project Director. "Open RAN shares these security considerations too, and, with
+continuing efforts by the Open RAN ecosystem, they can be overcome."
+
+The working panel also addressed the associated resources required to fulfill the
+vision of interoperable, multi-vendor RAN powered by cloud services and
+software, which drives innovation on a global platform.
+
+“Open RAN is an exciting concept, one that opens up several doors to
+innovation, improved network performance, and a more diverse and competitive
+cyber ecosystem,” said CISA Acting Assistant Director, Mona Harrington.
+“However, with those benefits come the potential for additional security
+concerns. As a community, we must work together to not only identify these
+concerns but also develop the practices and architecture to mitigate them.”
+
+As standards are developed and adopted by equipment manufacturers,
+software developers, integrators, and mobile network operators, these security
+considerations may be mitigated through the adoption of standards and industry
+best practices. Some of the security considerations identified in this assessment
+are not unique to Open RAN and exist in current closed RAN deployments, both
+would benefit by mitigating these security considerations.
+
+"Limited competition in the telecommunications infrastructure market can
+reduce supply chain resilience and contribute to higher prices for operators and
+consumers in the long run. Open, interoperable approaches to network
+architecture, such as the development of Open RAN, have the potential to
+increase the number of trustworthy suppliers in the market and to lower costs
+and improve security," said U.S. Department of State's Bureau of Cyberspace
+and Digital Policy's Director for Bilateral Affairs Mark Cullinane.
+
+If you have questions or want to learn more about ESF, please contact
+
+NSA Media Relations
+MediaRelations@nsa.gov
+443-634-0721
+
+Related Press Advisories
+
+NSA.GOV CULTURE HELPFUL LINKS RESOURCES RELATED LINKS
+About Core Values NSA Freedom of Information Act Classified Materiel Conversion DNI.gov
+
+. . a: Privacy Act Requests Commercial Solutions for
+Leadership Operating Authorities y q Classified Program (CSfC) Defense.gov
+
+Cybersecurity Collaboration Civil Liberties, Privacy, & Request a Speaker
+
+Center Cryptographic Support Services IC on the Record
+
+Transparency Office
+
+Prepublication Review
+
+National Cryptologic Museum Media Destruction Guidance Intelligence.gov
+
+Diversity, Equity, Inclusion, & ;
+Contact NSA Accessibility Media Inquiry NSA Open Source
+Accessibility General Counsel Frequently Asked Questions NSA Exhibit Roadshow
+
+ABA Notice NSA Inspector General
+

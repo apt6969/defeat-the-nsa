@@ -1,0 +1,91 @@
+An official website of the United States government
+
+About PressRoom Careers History Search NSA
+
+PRESS RELEASE VIEW
+
+Weak Security Controls and
+Practices Routinely Exploited
+for Initial Access
+
+eo Centre ae in aout
+
+hens dee Wecommtications UNAUTHORIZED
+Caradiyn Contre Centre conacten access
+tar Cyter Security pour ls cyterescurite
+
+certnz > AB scr cove
+
+CYBERSECURITY ADVISORY
+
+PRESS RELEASE | May 17, 2022
+
+NSA, Allies Issue Cybersecurity
+Advisory on Weaknesses that Allow
+Initial Access
+
+FORT MEADE, Md. — The Cybersecurity and Infrastructure Security
+Agency (CISA), the National Security Agency (NSA) and the FBI, along
+with allied nations, published a Cybersecurity Advisory today to raise
+awareness about the poor security configurations, weak controls and
+other poor network hygiene practices malicious cyber actors use to gain
+initial access to a victim's system.
+
+"also includes best practices that can help organizations
+strengthen their defenses against this malicious activity.
+
+“AS long as these security holes exist, malicious cyber actors will
+continue to exploit them,” said NSA Cybersecurity Director Rob Joyce.
+“We encourage everyone to mitigate these weaknesses by implementing
+the recommended best practices.”
+
+Some of the most common weaknesses include not enforcing
+multifactor authentication, incorrectly applying privileges or permissions
+and errors within access control lists and not keeping software up to
+date. The advisory recommends mitigations that control access, harden
+credentials, establish centralized log management and more.
+
+CISA produced the advisory with help from NSA and other partners. That
+includes the FBI, the Canadian Centre for Cyber Security (CCCS), the New
+Zealand National Cyber Security Centre (NCSC-NZ) and Computer
+Emergency Response Team (CERT NZ), the Netherlands National Cyber
+Security Centre (NCSC-NL), and the United Kingdom National Cyber
+Security Centre (NCSC-UK) on the advisory. Many of the same
+cybersecurity authorities collaborated to release a complementary
+advisory on 27 April, which highlighted the top routinely exploited
+vulnerabilities from 2021.
+
+s+
+
+Related Press Advisories
+
+Related Documents
+
+NSA.GOV CULTURE HELPFUL LINKS RESOURCES RELATED LINKS
+About Core Values NSA Freedom of Information Act Classified Materiel Conversion DNI.gov
+
+Privacy Act Requests Commercial Solutions for Def
+Classified Program (CSfC) erense.gov
+
+Cryptographic Support Services IC on the Record
+
+Leadership Operating Authorities
+
+Cybersecurity Collaboration Civil Liberties, Privacy, & Request a Speaker
+
+Center Transparency Office p blication Revi
+National Cryptologic Museum , 7 ; 7 Ke PUIG oN INENISU Media Destruction Guidance Intelligence.gov
+Diversity, Equity, Inclusion, &
+
+Contact NSA Accessibility Media Inquiry NSA Open Source
+
+Accessibility General Counsel Frequently Asked Questions NSA Exhibit Roadshow
+
+ABA Notice NSA Inspector General
+
+Site Policies
+
+Ye
+Privacy & Security Links Disclaimer Section508 WebPolicy Plain WritingAct DODIG NoFEARAct ImageryUse FOIA OpenGOV_ Strategic Plan USA.gov Small Business Act Site Map f y in EY
+
+Hosted by Defense Media Activity - WEB.mil

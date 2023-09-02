@@ -1,0 +1,134 @@
+& An official website of the United States government Here's how you know
+
+; | National Security Agency/Central Security Service About PressRoom Careers _ History Search NSA
+
+HOME > PRESS ROOM > PRESS RELEASES & STATEMENTS > PRESS RELEASE VIEW
+
+PRESS RELEASE | March 20, 2014
+
+Remarks by Mr. Richard H. Ledgett,
+Jr., Deputy Director, National
+Security Agency, at TED Talks 2014
+Conference
+
+United States Department of Defense
+Interview with Richard Ledgett, J4.
+TED Moderator Chris Anderson
+Washington, D.C.
+
+Wednesday, March 20, 2014
+
+R. ANDERSON: We had Edward Snowden here a couple days ago and
+his is response time. And several of you have written to me with
+questions to ask our guest here today from the NSA. So Richard Ledgett
+is the 15th Deputy Director of the National Security Agency and he's the
+senior civilian officer there, acts as its Chief Operating Officer guiding
+strategies, setting internal policies and serving as principal advisor to the
+Director. And all being well, welcome Rick Ledgett to TED.
+
+Applause
+
+R. LEDGETT: I'm really thankful for the opportunity to talk to folks here.
+look forward to the conversation. Thanks for arranging for that.
+
+R. ANDERSON: Thank you Rick, we appreciate you joining us, it's
+certainly quite a strong statement that the NSA is willing to reach out and
+show a more open face here. You saw, | think, the talk and interview
+Edward Snowden gave a few days ago. What did you make of it?
+
+R. LEDGETT: So | think it was interesting, it was ... we didn't realize that
+he was going to show up there so kudos to you guys for arranging a nice
+surprise like that. | think that like a lot of the things that have come out
+since Mr. Snowden starting disclosing classified information, there were
+some kernels of truth in there but a lot extrapolations and half-truths in
+here and I'm interested in helping to address those. | think this is a really
+important conversation that we're having in the United States and
+internationally and | think it is important and of import and so given that
+we need to have that be a fact based conversation and we want to help
+make that happen.
+
+R. ANDERSON: So, the question that a lot of people have is what do you
+make of Snowden's motivations for doing what he did and did he have an
+alternative way he could have gone?
+
+R. LEDGETT: He absolutely did have alternatives, ways he could have
+gone and | actually think that characterizing him as a whistleblower
+actually hurts legitimate whistleblowing activities. So what if somebody
+who works in NSA and there are over 35,000 who do, they are all great
+citizens, they are like your husbands, fathers, sisters, brothers, neighbors,
+friends and relatives, all who are interested in doing the right thing for
+their country and for our allies internationally. And so there are a variety
+of venues to address if folks have a concern. First off there's their
+supervisor and up through the supervisory chain within their
+organization. If folks aren't comfortable with that there are a number of
+nspectors General. In the case of Mr. Snowden, he had the option of the
+SA Inspector General, the Navy Inspector General, the Pacific Command
+nspector General, the Department of Defense Inspector General, and the
+ntelligence Community Inspector General, any of whom would have both
+ept his concerns in classified channels and been happy to address
+hem.
+
+R. ANDERSON: He has said sir, that working as a contractor
+
+R. LEDGETT: He had options to go to the Congressional committees
+and there are mechanisms to do that that are in place so he didn't do any
+of those things.
+
+R. ANDERSON: Now, you had said that Ed Snowden had other avenues
+for raising his concerns. The come back on that is a couple things, one,
+hat he certainly believes that as a contractor, the avenues that would
+have been available to him as an employee weren't available, two, you
+now, that there's a track record of other whistle blowers like Drake and
+Drake being treated pretty harshly by some views. And thirdly, what he
+was taking on was not one specific kind of flaw that he had discovered,
+but programs that had been approved by all three branches of
+government. | mean, in that circumstance, couldn't you argue that what
+he did was reasonable?
+
+R. LEDGETT: No, | don't agree with that. | think that the -- his -- sorry, I'm
+getting feedback through the microphone there. The actions that he took
+were inappropriate because of the fact that he put peoples' lives at risk,
+basically, in the long run, and | know there's been a lot of talk in the public
+by Mr. Snowden and some of the journalists that say that the things that
+have been disclosed have not put national security and people at risk,
+and that is categorically not true, they actually do.
+
+think there's also an amazing arrogance to the idea that he knows better
+han the framers of the Constitution in how the government should be
+designed and work for separation of powers and the fact that the
+executive and the judicial or the executive and the legislative branch have
+o work together and they have checks and balances on each other, and
+hen the judicial branch, which oversees the entire process, | think that's
+extremely arrogant on his part.
+
+R. ANDERSON: Can you give a specific example of how he put peoples
+ives at risk?
+
+R. LEDGETT: Yeah, sure. So, the things that he's disclosed, the
+capabilities, and NSA is a capabilities-based organization, so when we
+have foreign intelligence targets, legitimate things of interest, like
+errorists is the iconic example, but it includes things like human
+raffickers, drug traffickers, people who are trying to build, you know,
+advanced weaponry, nuclear weapons and build delivery systems for
+hose, and nation states who might be executing aggression against their
+immediate neighbors, which you may have some visibility in some of that
+hat's going on right now, the capabilities are applied in a very discreet
+and measured and controlled ways. So, the unconstrained disclosure of
+hose capabilities means that as adversaries see them and recognize,
+hey, | might be vulnerable to this, they move away from that.
+
+And we have seen targets in terrorism, in the nation state area, in
+smugglers of various types and other folks who have, because of the
+disclosures, moved away from our ability to have insight into what they're
+doing. The net effect of that is that our people, who are overseas in
+dangerous places, whether they're diplomats or military, and our allies
+who are in similar situations, are at greater risk because we don't see the
+hreats that are coming their way.
+
+R. ANDERSON: So, that's a general response saying that because of his
+evelations, access that you had to certain types of information has been
+shut down, has been closed down, but that presumes -- | mean, the
+concern is that the nature of that access was not necessarily legitimate
+in the first place. | mean, describe to us this bull run program where it's
+alleged that the NSA specifically weakened security in order to get the
+

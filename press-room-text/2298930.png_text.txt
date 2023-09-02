@@ -1,0 +1,85 @@
+An official website of the United States government Here's how you know
+
+About PressRoom Careers History Search NSA
+
+HOME > PRESS ROOM > PRESS RELEASES & STATEMENTS > PRESS RELEASE VIEW
+
+y CYBERSECURITY
+
+CYBERSECURITY
+INFORMATION
+
+PRESS RELEASE | Aug. 4, 2020
+
+How Mobile Device Users Can Limit
+Their Location Data Exposure
+NSA
+
+FORT MEADE, Md. —
+
+The National Security Agency released a Limiting Location Data Exposure
+Cybersecurity Information Sheet (CSI!) today to guide National Security
+System (NSS) and Department of Defense (DoD) mobile device users on
+how they might reduce risk associated with sharing sensitive location
+data. The guide summarizes how and why mobile devices expose
+ocation data and explains potential risk that comes with using them. It
+provides mitigations to limit the sharing of this information, but warns
+here is no solution to fully mitigate a mobile device from being located.
+
+obile devices, from smart phones to tablets to fi
+
+tness trackers, have become
+
+intertwined in many people's lives over the last decade, providing numerous
+
+benefits and becoming almost indispensable. However, the benefits and
+
+convenience can come at a cost. Mobile devices store and share valuable location
+
+data by design. This data can reveal details about the number of users in a
+
+ocation, user and supply movements, daily routines and can expose otherwise
+
+unknown associations between users and locations.
+
+A cell phone begins exposing location data the second it is powered on
+because it inherently trusts cellular networks and providers. Devices’
+location data, from GPS to Wi-Fi or Bluetooth connections, may be
+acquired by others with or without the user or provider's consent.
+Anything that sends and receives wireless signals has location risks
+similar to phones, including Internet of Things (loT) devices, vehicles and
+many products with “smart” included in the name.
+
+Each user must assess what level of risk they are willing to accept
+regarding location tracking. The CSI offers mitigations for those with
+location sensitivities and for those whose mission dictates they must not
+reveal their location.
+
+cybersecurity CsI cybersecurity information
+
+NSA.GOV CULTURE HELPFUL LINKS RESOURCES RELATED LINKS
+About Core Values NSA Freedom of Information Act Classified Materiel Conversion DNI.gov
+
+. . a: Privacy Act Requests Commercial Solutions for
+Leadership Operating Authorities Y q Classified Program (CSfC) Defense.gov
+
+Cybersecurity Collaboration Civil Liberties, Privacy, & Request a Speaker
+
+Center Cryptographic Support Services IC on the Record
+
+Transparency Office
+
+Prepublication Review
+
+National Cryptologic Museum Media Destruction Guidance Intelligence.gov
+
+Diversity, Equity, Inclusion, & ;
+Contact NSA Accessibility Media Inquiry NSA Open Source
+Accessibility General Counsel Frequently Asked Questions NSA Exhibit Roadshow
+ABA Notice NSA Inspector General
+
+Site Policies
+
+Privacy & Security Links Disclaimer Section508 WebPolicy Plain WritingAct DODIG NoFEARAct ImageryUse FOIA OpenGOV_ Strategic Plan USA.gov Small Business Act Site Map
+
+Hosted by Defense Media Activity - WEB.mil

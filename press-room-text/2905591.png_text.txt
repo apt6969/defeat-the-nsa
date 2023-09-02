@@ -1,0 +1,116 @@
+NSA.GOV
+About
+
+Leadership
+
+Cybersecurity Collaboration
+Center
+
+National Cryptologic Museum
+Contact NSA
+
+Accessibility
+
+ABA Notice
+
+Site Policies
+
+Privacy & Security — Links Disclaimer
+
+An official website of the United States government
+
+Press Room Careers
+
+About
+
+History
+
+PRESS RELEASE VIEW
+
+Recommendations for
+Configuring Adobe®
+Acrobat® Reader® DC ina
+Windows? Environment
+
+CYBERSECURITY TECHNICAL REPORT,
+
+CULTURE
+Core Values
+
+Operating Authorities
+
+Civil Liberties, Privacy, &
+Transparency Office
+
+Diversity, Equity,
+Accessibility
+
+General Counsel
+
+PRESS RELEASE | Jan. 20, 2022
+
+NSA Recommends Adobe Acrobat
+Reader Security Configurations
+
+FORT MEADE, Md. — The National Security Agency (NSA) released
+
+today. The technical report addresses the
+ongstanding issue of cyber actors using malicious PDFs when targeting
+victim networks. Specifically, it details recommended Adobe Reader
+configuration settings for systems administrators to help minimize the
+isk of executable content and other malicious activity ina Windows
+environment.
+
+SA recommends administrators implement modern security features
+or sandboxing and access control — configurations that can be rolled
+across networks to limit this common access vector at scale. Also
+included in the report is guidance for those who only need the basic
+viewing function for PDFs in addition to more complex uses, such as
+data sharing.
+
+Administrators are encouraged to carefully review this document to
+select configuration options that will have minimal impact on usability
+while providing maximum protection for their organizations.
+
+Visit our
+
+Related Stories
+
+RESOURCES
+Classified Materiel Conversion
+
+RELATED LINKS
+DNI.gov
+
+HELPFUL LINKS
+NSA Freedom of Information Act
+
+Commercial Solutions for
+Classified Program (CSfC)
+
+Cryptographic Support Services
+
+Privacy Act Requests Defense.gov
+
+Request a Speaker IC on the Record
+
+Prepublication Review Media Destruction Guidance Intelligence.gov
+Inclusion, & ;
+Media Inquiry NSA Open Source
+
+Frequently Asked Questions
+
+NSA Exhibit Roadshow
+
+NSA Inspector General
+
+Section 508 Web Policy
+
+Plain Writing Act
+
+DODIG NoFEARAct ImageryUse FOIA OpenGOV_ Strategic Plan USA.gov Small Business Act Site Map
+
+Hosted by Defense Media Activity - WEB.mil
+
+Search NSA
+

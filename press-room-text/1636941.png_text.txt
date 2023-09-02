@@ -1,0 +1,91 @@
+An official website of the United States government Here's how you know
+
+| National Security Agency/Central security Service About PressRoom Careers History Search NSA
+
+HOME > PRESS ROOM > PRESS RELEASES & STATEMENTS > PRESS RELEASE VIEW
+
+PRESS RELEASE | March 14, 2002
+
+NSA Develops INFOSEC
+Assessment Training and Rating
+Program
+
+The National Security Agency has developed a new evaluation program,
+for the benefit of government and industry organizations seeking to
+improve the INFOSEC posture of their information systems and
+networks. This program, called the INFOSEC Assessment Training and
+Rating Program (IATRP) seeks to connect organizations in need of
+Information Technology vulnerability assessments with companies
+qualified to perform such assessments within the quality guidelines and
+standards defined by the program.
+
+Seven companies agreed to have their INFOSEC vulnerability assessment
+capability appraised against NSA's INFOSEC Assessment Capability
+Maturity Model. All seven companies perform assessments using either
+the NSA-developed INFOSEC Assessment Methodology (IAM) or a
+similar assessment methodology. The participating companies include:
+
+e Backbone Security.com;
+
+¢ Booz-Allen & Hamilton;
+
+¢ Computer Sciences Corporation (CSC);
+¢ Electronic Data Systems (EDS);
+
+e Lucent Technologies;
+
+e SRA International; and,
+
+¢ TrustWave (formerly NetSafe).
+
+The long-term goal of the I|ATRP is to assist in the protection of sensitive
+information by increasing the information assurance levels of our
+National and Defense Information Infrastructures. The program will also
+enable compliance with the Presidential Decision Directive-63 (PDD-63)
+requirements for Vulnerability Assessments.
+
+As the name implies, the IATRP has both training and rating components.
+The training portion of the program provides a standardized INFOSEC
+Assessment Methodology (IAM) to commercial service providers and
+government personnel. The rating portion of the program assigns a
+series of ratings to commercial assessment providers so that customers
+can judge whether a provider is capable of meeting its requirements. For
+additional information, visit NSA.gov.
+
+>
+
+2002 transparency Press Release news National Security Agency
+NSA information security INFOSEC Assessment Training and Rating
+Program IATRP INFOSEC Assessment Capability Maturity Model INFOSEC
+Assessment Methodology IAM assessment Backbone Security.com
+Booz-Allen Hamilton Computer Sciences Corporation CSC Electronic Data
+Systems EDS Lucent Technologies SRA International TrustWave
+NetSafe
+
+NSA.GOV CULTURE HELPFUL LINKS RESOURCES RELATED LINKS
+
+About Core Values NSA Freedom of Information Act Classified Materiel Conversion DNI.gov
+
+. . a: Privacy Act Requests Commercial Solutions for
+Leadership Operating Authorities Y q Classified Program (CSfC) Defense.gov
+
+Cybersecurity Collaboration Civil Liberties, Privacy, & Request a Speaker
+
+Center Cryptographic Support Services IC on the Record
+
+Transparency Office
+
+Prepublication Review
+
+National Cryptologic Museum Media Destruction Guidance Intelligence.gov
+
+Diversity, Equity, Inclusion, & ;
+Contact NSA Accessibility Media Inquiry NSA Open Source
+Accessibility General Counsel Frequently Asked Questions NSA Exhibit Roadshow
+ABA Notice NSA Inspector General
+
+Site Policies
+
+Privacy & Security Links Disclaimer Section508 WebPolicy Plain WritingAct DODIG NoFEARAct ImageryUse FOIA OpenGOV_ Strategic Plan USA.gov Small Business Act Site Map
+
+Hosted by Defense Media Activity - WEB.mil

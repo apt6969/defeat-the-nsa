@@ -1,0 +1,87 @@
+An official website of the United States government Here's how you know
+
+National Security Agency/Central security Service About PressRoom Careers History
+
+HOME > PRESS ROOM > PRESS RELEASES & STATEMENTS > PRESS RELEASE VIEW
+
+CODEBREAKER BAU /73
+Z021 WINNER
+
+Georgia
+
+yleche
+
+PRESS RELEASE | Feb. 18, 2022
+
+Georgia Institute of Technology
+wins the 2021 NSA Codebreaker
+Challenge
+
+FORT MEADE, Md. — Today, the National Security Agency announced
+Georgia Institute of Technology, University of North Georgia and Oregon
+State University as the first, second and third place winners of the 2021
+SA Codebreaker Challenge (CBC). CBC is an annual cryptanalysis and
+everse engineering challenge that is open to students at U.S.-based
+academic institutions. Each year the challenge offers students a realistic,
+SA mission-centric scenario that typifies the work that NSA performs
+daily in its role defending of the Nation.
+
+nitially launched in 2013 with five participating schools, this year's CBC
+hosted participants from 631 academic institutions. The 2021 challenge
+involved a fictitious compromise to the Defense Industrial Base's
+network, which NSA helps to defend. Over the course of the challenge,
+students worked to identify the scope of the fictitious compromise,
+analyze the malicious actor's tradecraft and protocol and worked to gain
+access to the malicious actor's infrastructure in an effort to uncover
+additional details about the actor's activities.
+
+During the challenge, participants worked independently to solve
+increasingly complex tasks. NSA provided direction and tips through
+virtual exchanges that shared tools and concepts to help solve the
+increasingly difficult tasks. Only 42 of the CBC's 5,464 participants
+completed the entire challenge within the allotted timeframe.
+
+Pamela Jock, NSA's Chief of Academic Engagement stated that "the CBC
+has led to increased interest in cybersecurity careers at NSA and
+influenced cyber education curriculums at a few schools who have
+incorporated CBC into their Fall courses. This collaboration has the
+potential of sharpening individual cyber student skill sets as well as
+strengthening the rigor of cyber education programs nationally. "
+
+SA congratulates the solvers, winning schools, top performers, and all
+participants of the 2021 Codebreaker Challenge. The 2021 Codebreaker
+Challenge ran from 2 August 2021 through 4 January 2022. For more
+information about the Codebreaker Challenge see: https://nsa-
+codebreaker.org/FAQ.
+
+Related Stories
+
+University of North Georgia Recognized for Crushing Codebreaker Success
+
+2021 Codebreaker Challenge Codebreaker challenge
+
+NSA.GOV CULTURE HELPFUL LINKS RESOURCES RELATED LINKS
+About Core Values NSA Freedom of Information Act Classified Materiel Conversion DNI.gov
+
+Privacy Act Requests Commercial Solutions for
+
+Classified Program (CSfC) Defense.gov
+oa Collaboration Coll LUetSinuss [FTN RSG) eG Cryptographic Support Services I@onthe Record
+Transparency Office
+
+Leadership Operating Authorities
+
+National Cryptologic Museum Prepublication Review Media Destruction Guidance Intelligence.gov
+
+Diversity, Equity, Inclusion, &
+
+Contact NSA Accessibility Media Inquiry NSA Open Source
+
+Accessibility General Counsel Frequently Asked Questions NSA Exhibit Roadshow
+ABA Notice NSA Inspector General
+
+Site Policies
+
+Privacy & Security Links Disclaimer Section508 WebPolicy Plain WritingAct DODIG NoFEARAct ImageryUse FOIA OpenGOV_ Strategic Plan USA.gov Small Business Act Site Map
+
+Hosted by Defense Media Activity - WEB.mil

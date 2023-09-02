@@ -1,0 +1,99 @@
+An official website of the United States government
+
+About PressRoom Careers History Search NSA
+
+PRESS RELEASE VIEW
+
+Protecting Against Cyber Threats
+to Managed Service Providers
+and their Customers
+
+AippNatorel er ACSC srr a
+Security Centre Canacian Centro Camo camden
+
+Sytere Rares tor Cyteer Securty pour \a cybenmcurtie
+
+@ CATIONS | ate
+
+CYBERSECURITY ADVISORY
+
+PRESS RELEASE | May 11, 2022
+
+NSA, Partners Issue Guidance to
+Secure Managed Service Providers,
+Their Customers
+
+FORT MEADE, Md. — In anticipation of increased malicious cyber
+targeting of managed service providers (MSPs), NSA joined cybersecurity
+authorities from the U.S., Australia, Canada, New Zealand, and the United
+Kingdom to release the “
+
+Cybersecurity Advisory.
+
+MSPs make attractive targets for malicious actors, including nation-state
+actors, because compromising an MSP network allows for access to and
+compromise of the provider-customer trust relationships.
+
+MSPs are entities that deliver, operate, or manage information and
+communications technology services and functions for their customers.
+
+“This joint guidance will help MSPs and customers engage in meaningful
+discussions on the responsibilities of securing networks and data,” said
+SA Cybersecurity Director Rob Joyce. “Our recommendations cover
+actions such as preventing initial compromises and managing account
+authentication and authorization.”
+
+The Cybersecurity Advisory highlights best practices and mitigations for
+SPs and customers. Some of the key actions include:
+
+e Identifying and disabling accounts no longer in use
+
+¢ Enforcing multi-factor authentication (MFA) on MSP accounts that
+access the customer environment and monitoring MSP account
+activity; and
+
+e Ensuring MSP-customer contracts transparently identify ownership of
+information and communications technology security roles and
+responsibilities.
+
+SA partnered with the United Kingdom's National Cyber Security Centre
+NCSC-Uk), Australian Cyber Security Centre (ACSC), Canadian Centre for
+Cyber Security (CCCS), New Zealand’s National Cyber Security Centre
+NCSC-NZ), Cybersecurity and Infrastructure Security Agency (CISA), and
+he Federal Bureau of Investigation (FBI) to develop this report.
+
+To mitigate against malicious activity, the agencies recommend that
+
+SP customers verify that contractual arrangements with their provider
+include cybersecurity measures in line with their particular security
+equirements.
+
+Related Press Advisories
+
+Related Documents
+
+NSA.GOV CULTURE HELPFUL LINKS RESOURCES RELATED LINKS
+About Core Values NSA Freedom of Information Act Classified Materiel Conversion DNI.gov
+
+. . a: Privacy Act Requests Commercial Solutions for
+Leadership Operating Authorities Y q Classified Program (CSfC) Defense.gov
+
+Cybersecurity Collaboration Civil Liberties, Privacy, & Request a Speaker
+
+Cent Cryptographic Support Services IC on the Record
+emer Transparency Office p blication Revi
+National Cryptologic Museum repunication Keview Media Destruction Guidance Intelligence.gov
+
+Diversity, Equity, Inclusion, &
+
+Contact NSA Accessibility Media Inquiry NSA Open Source
+Frequently Asked Questions NSA Exhibit Roadshow
+
+Accessibility General Counsel
+ABA Notice NSA Inspector General
+
+Site Policies
+
+Privacy & Security Links Disclaimer Section508 WebPolicy Plain WritingAct DODIG NoFEARAct ImageryUse FOIA OpenGOV_ Strategic Plan USA.gov Small Business Act Site Map
+
+Hosted by Defense Media Activity - WEB.mil

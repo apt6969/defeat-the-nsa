@@ -1,0 +1,143 @@
+& An official website of the United States government Here's how you know
+
+i | National Security Agency/Central security Service About PressRoom Careers History Search NSA
+
+i
+
+HOME > PRESS ROOM > PRESS RELEASES & STATEMENTS > PRESS RELEASE VIEW
+PRESS RELEASE | Aug. 9, 2013
+
+The National Security Agency:
+Missions, Authorities, Oversight and
+Partnerships
+
+"That's why, in the years to come, we will have to keep working hard to
+strike the appropriate balance between our need for security and
+preserving those freedoms that make us who we are. That means
+reviewing the authorities of law enforcement, so we can intercept new
+types of communication, but also build in privacy protections to prevent
+abuse."
+
+--President Obama, May 23, 2013
+
+n his May 2013 address at the National Defense University, the President
+made clear that we, as a Government, need to review the surveillance
+authorities used by our law enforcement and intelligence community
+professionals so that we can collect information needed to keep us safe
+and ensure that we are undertaking the right kinds of privacy protections
+O prevent abuse. In the wake of recent unauthorized disclosures about
+some of our key intelligence collection programs, President Obama has
+directed that as much information as possible be made public, while
+mindful of the need to protect sources, methods and national security.
+Acting under that guidance, the Administration has provided enhanced
+ransparency on, and engaged in robust public discussion about, key
+intelligence collection programs undertaken by the National Security
+Agency (NSA). This is important not only to foster the kind of debate the
+President has called for, but to correct inaccuracies that have appeared in
+he media and elsewhere. This document is a step in that process, and is
+aimed at providing a succinct description of NSA‘s mission, authorities,
+oversight and partnerships.
+
+Prologue
+
+After the al-Qa'ida attacks on the World Trade Center and the Pentagon,
+he 9/11 Commission found that the U.S. Government had failed to
+identify and connect the many "dots" of information that would have
+uncovered the planning and preparation for those attacks. We now know
+hat 9/11 hijacker Khalid al-Midhar, who was on board American Airlines
+flight 77 that crashed into the Pentagon, resided in California for the first
+six months of 2000. While NSA had intercepted some of Midhar's
+conversations with persons in an al-Qa'ida safe house in Yemen during
+hat period, NSA did not have the U.S. phone number or any indication
+hat the phone Midhar was using was located in San Diego. NSA did not
+have the tools or the database to search to identify these connections
+and share them with the FBI. Several programs were developed to
+address the U.S. Government's need to connect the dots of information
+available to the intelligence community and to strengthen the
+coordination between foreign intelligence and domestic law enforcement
+agencies.
+
+Background
+
+SA is an element of the U.S. intelligence community charged with
+collecting and reporting intelligence for foreign intelligence and
+counterintelligence purposes. NSA performs this mission by engaging in
+he collection of "signals intelligence," which, quite literally, is the
+production of foreign intelligence through the collection, processing, and
+analysis of communications or other data, passed or accessible by radio,
+wire, or other electromagnetic means. Every intelligence activity NSA
+undertakes is necessarily constrained to these central foreign intelligence
+nd counterintelligence purposes. NSA‘s challenge in an increasingly
+erconnected world -- a world where our adversaries make use of the
+ame communications systems and services as Americans and our
+ies - is to find and report on the communications of foreign
+
+elligence value while respecting privacy and civil liberties. We do not
+need to sacrifice civil liberties for the sake of national security - both are
+integral to who we are as Americans. NSA can and will continue to
+conduct its operations in a manner that respects both. We strive to
+achieve this through a system that is carefully designed to be consistent
+with Authorities and Controls and enabled by capabilities that allow us to
+Collect, Analyze, and Report intelligence needed to protect national
+security.
+
+a
+n
+S
+a
+n
+
+SA Mission
+
+SA‘s mission is to help protect national security by providing policy
+makers and military commanders with the intelligence information they
+need to do their jobs. NSA's priorities are driven by externally developed
+and validated intelligence requirements, provided to NSA by the
+President, his national security team, and their staffs through the
+ational Intelligence Priorities Framework.
+
+SA Collection Authorities
+
+SA‘s collection authorities stem from two key sources: Executive Order
+12333 and the Foreign Intelligence Surveillance Act of 1978 (FISA).
+
+Executive Order 12333
+
+Executive Order 12333 is the foundational authority by which NSA
+collects, retains, analyzes, and disseminates foreign signals intelligence
+information. The principal application of this authority is the collection of
+communications by foreign persons that occur wholly outside the United
+States. To the extent a person located outside the United States
+communicates with someone inside the United States or someone inside
+he United States communicates with a person located outside the
+United States those communications could also be collected. Collection
+pursuant to EO 12333 is conducted through various means around the
+globe, largely from outside the United States, which is not otherwise
+egulated by FISA. Intelligence activities conducted under this authority
+are carried out in accordance with minimization procedures established
+by the Secretary of Defense and approved by the Attorney General.
+
+To undertake collections authorized by EO 12333, NSA uses a variety of
+methodologies. Regardless of the specific authority or collection source,
+SA applies the process described below.
+
+1. NSA identifies foreign entities (persons or organizations) that have
+information responsive to an identified foreign intelligence
+requirement. For instance, NSA works to identify individuals who may
+
+belong to a terrorist network.
+2. NSA develops the "network" with which that person or organization's
+information is shared or the command and control structure through
+which it flows. In other words, if NSA is tracking a specific terrorist,
+NSA will endeavor to determine who that person is in contact with, and
+who he is taking direction from.
+3. NSA identifies how the foreign entities communicate (radio, e-mail,
+telephony, etc.)
+4. NSA then identifies the telecommunications infrastructure used to
+transmit those communications.
+5. NSA identifies vulnerabilities in the methods of communication used to
+transmit them.
+6. NSA matches its collection to those vulnerabilities, or develops new
+
+capabilities to acquire communications of interest if needed.
+

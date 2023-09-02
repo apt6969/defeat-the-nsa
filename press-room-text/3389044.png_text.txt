@@ -1,0 +1,132 @@
+= An official website of the United States government Here's how you know
+
+| National Security Agenoy/Central Security Service About PressRoom Careers _ History
+
+HOME > PRESS ROOM > PRESS RELEASES & STATEMENTS > PRESS RELEASE VIEW
+
+we Communications Centre de la sécurité i ck National Cyber
+
+Security Establishment des télécommunications
+
+Canadian Centre Centre canadien Security Centre
+for Cyber Security pour la cybersécurité a
+
+tralian Government ik C ( C patres ~ ional Cyber
+SS yber Security
+tralian Signals Directorate m\ ore) Centre Security Centre
+® sa
+
+"ART OF TH
+
+Hunting Russian Intelligence
+“Snake” Malware
+
+CYBERSECURITY ADVISORY
+
+PRESS RELEASE | May 9, 2023
+
+U.S. Agencies and Allies Partner to
+Identify Russian Snake Malware
+Infrastructure Worldwide
+
+FORT MEADE, Mad. - The National Security Agency (NSA) and several
+partner agencies have identified infrastructure for Snake malware—a
+sophisticated Russian cyberespionage tool—in over 50 countries
+
+worldwide.
+
+To assist network defenders in detecting Snake and any associated
+activity, the agencies are publicly releasing the joint Cybersecurity
+Advisory (CSA), “Hunting Russian Intelligence “Snake” Malware” today.
+
+The agencies, which include the NSA, Federal Bureau of Investigation
+(FBI), Cybersecurity and Infrastructure Security Agency (CISA), Cyber
+National Mission Force (CNMF), Canadian Cyber Security Centre (CCCS),
+United Kingdom National Cyber Security Centre (NCSC-Uk), Australian
+Cyber Security Centre (ACSC), and New Zealand National Cyber Security
+Centre (NCSC-NZ) attribute Snake operations to a known unit within
+Center 16 of Russia’s Federal Security Service (FSB). The internationa
+coalition has identified Snake malware infrastructure across North
+America, South America, Europe, Africa, Asia, and Australia, including the
+United States and Russia.
+
+“Russian government actors have used this tool for years for intelligence
+collection,’ said Rob Joyce, NSA Director of Cybersecurity. “Snake
+infrastructure has spread around the world. The technical details will help
+many organizations find and shut down the malware globally.”
+
+alicious cyber actors used Snake to access and exfiltrate sensitive
+international relations documents, as well as other diplomatic
+communications, through a victim in a North Atlantic Treaty Organization
+NATO) country.
+
+nthe U.S., the FSB has victimized industries including education
+institutions, small businesses, and media organizations. Critical
+infrastructure sectors, such as local government, finance, manufacturing,
+and telecommunications, have also been impacted.
+
+Typically, Snake malware is deployed to external-facing infrastructure
+nodes on a network. From there, it uses other tools, and techniques,
+tactics, and procedures (TTPs) on the internal network to conduct
+additional exploitation operations.
+
+This CSA focuses on one of the more recent variants of Snake. It
+provides background on Snake's attribution to the FSB and detailed
+technical information and mitigation recommendations to assist network
+defenders in protecting against Snake-associated malicious activity.
+
+Read the full report here.
+
+Visit our full library for more cybersecurity information and technical
+guidance.
+
+NSA Media Relations
+MediaRelations@nsa.gov
+443-634-0721
+
+Related Press Advisories
+
+NCSC-UK, NSA, and Partners Advise about APT28 Exploitation of Cisco
+Routers
+
+CISA, FBI, NSA, and International Partners Issue Advisory on Demonstrated
+Threats and Capabilities of Russian State-Sponsored and Cyber Criminal
+Actors
+
+NSA and FBI Expose Russian Previously Undisclosed Malware “Drovorub” in
+Cybersecurity Advisory
+
+NSA CISA, FBI, and the UK NCSC further expose Russian Intelligence Cyber
+Tactics
+
+Related Documents
+
+CSA: Hunting Russian Intelligence “Snake” Malware
+
+cybersecurity CISA FBI csa FSB russia malware
+mitigation network Cyber cyberespionage tool snake
+
+NSA.GOV CULTURE HELPFUL LINKS RESOURCES RELATED LINKS
+About Core Values NSA Freedom of Information Act Classified Materiel Conversion DNI.gov
+
+. . a: Privacy Act Requests Commercial Solutions for
+Leadership Operating Authorities y q Classified Program (CSfC) Defense.gov
+
+Cybersecurity Collaboration Civil Liberties, Privacy, & Request a Speaker Cryptographic Support Services IC on the Record
+
+Center Transparency Office p blication Revi
+Notional Cryptoloate Museum republication Review Media Destruction Guidance Intelligence.gov
+
+Diversity, Equity, Inclusion, &
+
+Contact NSA Accessibility Media Inquiry NSA Open Source
+Frequently Asked Questions NSA Exhibit Roadshow
+
+Accessibility General Counsel
+ABA Notice NSA Inspector General
+
+Site Policies
+
+Ye
+Privacy & Security Links Disclaimer Section508 WebPolicy Plain WritingAct DODIG NoFEARAct ImageryUse FOIA OpenGOV_ Strategic Plan USA.gov Small Business Act Site Map f y in EY
+

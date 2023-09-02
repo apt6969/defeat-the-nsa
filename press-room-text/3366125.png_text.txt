@@ -1,0 +1,95 @@
+An official website of the United States government
+
+About PressRoom Careers History Search NSA
+
+AS National Cyber
+ere | Security Centre
+
+a part of GCHQ
+
+APT28 Exploits Known
+Vulnerability to Carry Out
+
+~ Reconnaissance and Deploy
+Malware on Cisco Routers
+
+CYBERSECURITY ADVISORY
+
+PRESS RELEASE | April 18, 2023
+
+NCSC-UK, NSA, and Partners Advise
+about APT28 Exploitation of Cisco
+Routers
+
+FORT MEADE, Md. - The National Security Agency (NSA) has partnered
+with the UK’s National Cyber Security Centre (NCSC), the Federal Bureau
+of Investigation (FBI), and the Cybersecurity and Infrastructure Security
+Agency (CISA) to publish a joint Cybersecurity Advisory (CSA) report on
+the tactics, techniques, and procedures (TTPs) associated with APT28’s
+exploitation of Cisco routers.
+
+APT28 is also known as the Russian General Staff Main Intelligence
+Directorate (GRU) 85th Special Service Center (GTsSS) military
+intelligence unit 26165, Fancy Bear, STRONTIUM, Pawn Storm, the Sednit
+Gang, and Sofacy.
+
+The transatlantic coalition published the “APT28 exploits known
+ulnerability to carry out reconnaissance and deploy malware on Cisco
+routers” CSA indicating that APT28 cyber actors masqueraded Simple
+etwork Management protocol (SNMP) to exploit CVE-2017-6742 (
+
+) and access vulnerable Cisco routers worldwide.
+This included U.S. Government institutions, approximately 250 Ukrainian
+ictims, and a small number based in Europe.
+
+<
+
+<
+
+These cyber actors continue to leverage a known vulnerability to exploit
+unpatched Cisco routers to conduct reconnaissance and deploy malware
+to enable unauthenticated access.
+
+SNMP is designed to allow administrators to monitor and configure
+network devices remotely, but it can also be misused to obtain sensitive
+network information and, if vulnerable, exploit devices to penetrate a
+network.
+
+The authoring agencies recommend following the mitigation advice to
+defend against this malicious activity and identify indicators of
+compromise (loCs) to detect possible activity in networks.
+
+NSA Media Relations
+
+443-634-0721
+
+Related Press Advisories
+
+Related Documents
+
+NSA.GOV CULTURE HELPFUL LINKS RESOURCES RELATED LINKS
+About Core Values NSA Freedom of Information Act Classified Materiel Conversion DNI.gov
+
+Leadership Operating Authorities Privacy Act Requests Commercial Solutions for
+
+Classified Program (CSfC) Defense.gov
+Cybersecurity Collaboration Civil Liberties, Privacy, & Request a Speaker Cryptographic Support Services IC on the Record
+Transparency Office er .
+National Cryptologic Museum Prepublication Review Media Destruction Guidance
+
+. . . : Intelligence.gov
+Diversity, Equity, Inclusion, & g g
+
+Contact NSA Accessibility Media Inquiry NSA Open Source
+
+Accessibility General Counsel Frequently Asked Questions
+
+NSA Exhibit Roadshow
+ABA Notice NSA Inspector General
+
+Site Policies
+
+Ye
+Privacy & Security Links Disclaimer Section508 WebPolicy Plain WritingAct DODIG NoFEARAct ImageryUse FOIA OpenGOV_ Strategic Plan USA.gov Small Business Act Site Map f y in EY
+
+Hosted by Defense Media Activity - WEB.mil

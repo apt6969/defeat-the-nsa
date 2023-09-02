@@ -1,0 +1,84 @@
+| National Security Agency/Central security Service About PressRoom Careers History Search NSA
+
+An official website of the United States government
+
+PRESS RELEASE VIEW
+
+RECOMMENDED PRACTICES GUIDE FOR
+
+DEVELOPERS
+
+SECURING THE SOFTWARE SUPPLY CHAIN
+
+PRESS RELEASE | Sept. 1, 2022
+
+NSA, CISA, ODNI Release Software
+Supply Chain Guidance for
+Developers
+
+The National Security Agency (NSA), Cybersecurity and Infrastructure Security
+Agency (CISA), and the Office of the Director of National Intelligence (ODNI)
+released today. The product
+is through the Enduring Security Framework (ESF) — a public-private cross-
+sector working group led by NSA and CISA that provides cybersecurity
+guidance addressing high priority threats to the nation’s critical infrastructure.
+
+The developer holds a critical responsibility to the security of our software. As
+ESF examined the events that led up the SolarWinds attack, it was clear that
+investment was needed in creating a set of best practices that focused on the
+needs of the software developer. Securing the Software Supply Chain for
+Developers was created to help developers achieve security through industry
+and government-evaluated recommendations. This guidance consolidates
+valuable resources already published for developers to put to use.
+
+As the cyber threat continues to become more sophisticated, adversaries have
+begun to attack the software supply chain, rather than rely on publicly known
+vulnerabilities. This supply chain compromise allows malicious actors to move
+throughout networks seemingly undetected. In order to counter this threat, the
+cybersecurity community needs to focus on securing the software development
+lifecycle.
+
+on developing
+secure code, verifying third party components, hardening the build environment,
+and delivering the code. Until all DevOps are DevSecOps, the software
+development lifecycle will be at risk.
+
+Security is not just for the developer, which is why ESF will also release editions
+of this guidance for the supplier and the customer of software. We all have to do
+our part to secure our networks.
+
+If you have questions or want to learn more about ESF, please contact
+or
+
+Related Press Advisories
+
+NSA.GOV CULTURE HELPFUL LINKS RESOURCES RELATED LINKS
+About Core Values NSA Freedom of Information Act Classified Materiel Conversion DNI.gov
+
+Privacy Act Requests Commercial Solutions for Def
+Classified Program (CSfC) erense.gov
+
+Cryptographic Support Services IC on the Record
+
+Leadership Operating Authorities
+
+Cybersecurity Collaboration Civil Liberties, Privacy, & Request a Speaker
+
+Center Transparency Office p blication Revi
+Notional Cryptoloate Museum republication Review Media Destruction Guidance Intelligence.gov
+
+Diversity, Equity, Inclusion, &
+
+Contact NSA Accessibility Media Inquiry NSA Open Source
+
+Frequently Asked Questions
+
+Accessibility General Counsel NSA Exhibit Roadshow
+
+ABA Notice NSA Inspector General
+
+Site Policies
+
+Privacy & Security Links Disclaimer Section508 WebPolicy Plain WritingAct DODIG NoFEARAct ImageryUse FOIA OpenGOV_ Strategic Plan USA.gov Small Business Act Site Map
+
+Hosted by Defense Media Activity - WEB.mil

@@ -1,0 +1,87 @@
+= An official website of the United States government Here's how you know
+
+About PressRoom Careers History Search NSA
+
+HOME > PRESS ROOM > PRESS RELEASES & STATEMENTS > PRESS RELEASE VIEW
+
+y CYBERSECURITY
+
+CYBERSECURITY
+ADVISORY
+
+PRESS RELEASE | July 23, 2020
+
+Protect Operational Technologies
+and Control Systems against Cyber
+Attacks
+
+NSA
+
+FT. MEADE, Md. —-
+
+Cyber actors have demonstrated their willingness to conduct cyber-
+attacks against critical infrastructure by exploiting Internet-accessible
+Operational Technology (OT) assets. Due to the increase in adversary
+capabilities and activities, the criticality to U.S. national security and way
+of life, and the vulnerability of OT systems, civilian infrastructure makes
+attractive targets for foreign powers attempting to harm to US interests
+or retaliate for perceived US aggression.
+
+Today, the National Security Agency and Cybersecurity and Infrastructure
+Security Agency released an advisory for critical infrastructure OT and
+ICS assets to be aware of current threats we observe, prioritize assessing
+their cybersecurity defenses and take appropriate action to secure their
+systems.
+
+"Operational technology assets are pervasive and underpin many
+essential national security functions, as well as the Defense Industrial
+Base," Anne Neuberger, Director of NSA’s Cybersecurity Directorate noted.
+"We encourage all stakeholders to apply our joint recommendations with
+DHS CISA."
+
+"As we've Said many times, our adversaries are capable, imaginative and
+aim to disrupt essential services, so it is important that we make sure we
+are staying ahead of them." Bryan Ware, Assistant Director for
+Cybersecurity, CISA. "Our goal at CISA is to lead and encourage a
+proactive 'whole community’ assessment and response to significant
+threats and ensure we provide the right tools and services at the righ
+time.
+
+=>
+
+NSA and CISA continue to collaborate on cybersecurity issues and share
+information about how to best secure National Security Systems,
+Department of Defense systems, and the Defense Industrial Base as well
+as other critical infrastructure, against foreign threats, ultimately keeping
+America and our allies safe.
+
+For more detailed information, please review the joint advisory, which
+includes recently observed tactics, techniques, and procedures, as well
+as related recommendations.
+
+NSA.GOV CULTURE HELPFUL LINKS RESOURCES RELATED LINKS
+About Core Values NSA Freedom of Information Act Classified Materiel Conversion DNI.gov
+
+. . a: Privacy Act Requests Commercial Solutions for
+Leadership Operating Authorities Y q Classified Program (CSfC) Defense.gov
+
+Cybersecurity Collaboration Civil Liberties, Privacy, & Request a Speaker
+
+Cent Cryptographic Support Services IC on the Record
+emer Transparency Office
+
+Prepublication Review
+
+National Cryptologic Museum Media Destruction Guidance Intelligence.gov
+
+Diversity, Equity, Inclusion, & ;
+Contact NSA Accessibility Media Inquiry NSA Open Source
+
+Accessibility General Counsel Frequently Asked Questions NSA Exhibit Roadshow
+ABA Notice NSA Inspector General
+
+Site Policies
+
+Privacy & Security Links Disclaimer Section508 WebPolicy Plain WritingAct DODIG NoFEARAct ImageryUse FOIA OpenGOV_ Strategic Plan USA.gov Small Business Act Site Map
+
+Hosted by Defense Media Activity - WEB.mil

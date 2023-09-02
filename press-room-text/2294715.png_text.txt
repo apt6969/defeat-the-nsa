@@ -1,0 +1,127 @@
+= An official website of the United States government Here's how you know
+
+About PressRoom Careers History Search NSA
+
+HOME > PRESS ROOM > PRESS RELEASES & STATEMENTS > PRESS RELEASE VIEW
+
+v CYBERSECURITY
+
+CYBERSECURITY
+ADVISORY
+
+PRESS RELEASE | July 30, 2020
+
+NSA releases Cybersecurity
+Advisory on GRUB2 BootHole
+Vulnerability
+
+NSA
+
+FT. MEADE, Md. -
+
+Thursday ona vulnerability (CVE-2020-10713) known as BootHole that
+poses a risk to a majority of Linux distributions and systems running on
+Windows 8 or later versions. That includes those on National Security
+Systems, Department of Defense (DoD) systems, as well as the Defense
+Industrial Base (DIB). First disclosed by Eclypsium on Wednesday, the
+vulnerability affects the Grand Unified Bootloader (GRUB2) widely used to
+
+boot Linux-based operating systems.
+
+The vulnerability enables bypass of Secure Boot — used to control which
+software can boot on a device through signature validation — to gain
+arbitrary code execution and compromise the integrity of the boot
+process even when Secure Boot is enabled. It could be used to install
+persistent and stealthy bootkits that operate even when Secure Boot is
+enabled and functioning correctly. Due to an issue in parsing GRUB
+configuration files, an attacker can execute arbitrary code to bypass
+signature verification.
+
+While Windows does not use GRUB, the fact that Unified Extensible
+Firmware Interface (UEFI)-based computers ‘trust’ the vulnerable version
+of GRUB makes it possible for a Windows boot process to be
+compromised by this vulnerability. Impact may include but is not limited
+to public/private cloud instances, data center servers, end-user
+desktops/laptops, and Linux-based Operational Technology/Internet of
+Things devices.
+
+n “Mitigate the GRUB2 BootHole Vulnerability,” NSA provides
+administrators with two mitigation options. The standard mitigation,
+which involves updating an endpoint’s boot components and revoking the
+rust of existing vulnerable boot components, will mitigate the
+vulnerability in consumer, business and enterprise environments.
+
+SA plans to release a Cybersecurity Technical Report on “UEFI| Secure
+Boot Customization” soon that will provide comprehensive guidance on
+how to tackle the advanced mitigation offered in the Cybersecurity
+Advisory. The advanced mitigation is best suited for endpoints that have
+higher security and integrity requirements.
+
+NSA.GOV
+About
+
+Leadership
+
+Cybersecurity Collaboration
+Center
+
+National Cryptologic Museum
+
+Contact NSA
+
+Accessibility
+
+ABA Notice
+
+Site Policies
+
+Privacy & Security — Links Disclaimer
+
+CULTURE
+Core Values
+Operating Authorities
+
+Civil Liberties, Privacy, &
+Transparency Office
+
+Diversity, Equity, Inclusion, &
+Accessibility
+
+General Counsel
+
+NSA Inspector General
+
+HELPFUL LINKS
+NSA Freedom of Information Act
+
+Privacy Act Requests
+Request a Speaker
+Prepublication Review
+Media Inquiry
+
+Frequently Asked Questions
+
+RESOURCES
+Classified Materiel Conversion
+
+Commercial Solutions for
+Classified Program (CSfC)
+
+Cryptographic Support Services
+Media Destruction Guidance
+NSA Open Source
+
+NSA Exhibit Roadshow
+
+Web Policy Plain Writing Act DODIG NoFEARAct ImageryUse FOIA OpenGOV_ Strategic Plan USA.gov Small Business Act Site Map
+
+Hosted by Defense Media Activity - WEB.mil
+
+RELATED LINKS
+DNI.gov
+
+Defense.gov
+IC on the Record
+
+Intelligence.gov
+

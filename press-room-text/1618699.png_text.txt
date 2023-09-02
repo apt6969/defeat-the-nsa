@@ -1,0 +1,131 @@
+= An official website of the United States government Here's how you know
+
+| National Security Agency/Central security Service About PressRoom Careers History Search NSA
+
+HOME > PRESS ROOM > PRESS RELEASES & STATEMENTS > PRESS RELEASE VIEW
+
+PRESS RELEASE | April 28, 2017
+
+NSA Stops Certain Section 702
+"Upstream" Activities
+
+Since 2008, the National Security Agency (NSA) and other members of
+he U.S. Intelligence Community have relied on Section 702 of the Foreign
+ntelligence Surveillance Act (FISA) to conduct surveillance on specific
+foreign targets located outside the United States to acquire critical
+intelligence on issues ranging from international terrorism to
+cybersecurity. After a comprehensive review of mission needs, current
+echnological constraints, United States person privacy interests, and
+certain difficulties in implementation, NSA has decided to stop some of
+its activities conducted under Section 702.
+
+While the Foreign Intelligence Surveillance Court (FISC) was considering
+he government's annual application to renew the Section 702
+
+ifications, NSA reported several earlier, inadvertent compliance
+incidents related to queries involving U.S. person information in 702
+upstream” internet collection. Although the incidents were not willful,
+
+SA was required to, and did, report them to both Congress and the
+
+. The court issued two extensions of the government's renewal
+application in order to receive additional information from the
+government about this issue and the government's plan to resolve it. The
+previous year's certifications remained in effect during these extension
+periods.
+
+Q
+oO
+s
+
+T
+n
+oO
+
+During the extension period, NSA undertook a broad review of its Section
+702 program. Under Section 702, NSA collects internet communications
+in two ways: "downstream (previously referred to as PRISM) and
+“upstream.” Under downstream collection, NSA acquires
+communications "to or from" a Section 702 selector (Such as an email
+address). Under upstream collection, NSA acquires communications "to,
+from, or about" a Section 702 selector. An example of an "about" email
+communication is one that includes the targeted email address in the
+text or body of the email, even though the email is between two persons
+who are not themselves targets. The independent Privacy and Civi
+Liberties Oversight Board described these collection methods in an
+exhaustive report published in 2014.
+
+After considerable evaluation of the program and available technology,
+NSA has decided that its Section 702 foreign intelligence surveillance
+
+activities will no longer include any upstream internet communications
+that are solely "about" a foreign intelligence target. Instead, this
+surveillance will now be limited to only those communications that are
+directly to’ or "from" a foreign intelligence target. These changes are
+designed to retain the upstream collection that provides the greatest
+value to national security while reducing the likelihood that NSA wi
+acquire communications of U.S. persons or others who are not in direct
+
+contact with one of the Agency's foreign intelligence targets.
+
+n addition, as part of this curtailment, NSA will delete the vast majority of
+previously acquired upstream internet communications as soon as
+practicable.
+
+SA previously reported that, because of the limits of its current
+echnology, it is unable to completely eliminate "about" communications
+from its upstream 702 collection without also excluding some of the
+elevant communications directly "to or from" its foreign intelligence
+argets. That limitation remains even today. Nonetheless, NSA has
+determined that in light of the factors noted, this change is a responsible
+and careful approach at this time.
+
+After reviewing amended Section 702 certifications and NSA procedures
+that implement these changes, the FISC recently issued an opinion and
+order, approving the renewal certifications and use of procedures, which
+authorize this narrowed form of Section 702 upstream internet collection.
+A declassification review of the FISC's opinion and order, and the related
+argeting and minimization procedures, is underway.
+
+The National Security Agency works tirelessly around the world to help
+eep the nation safe. We have a solemn responsibility and commitment
+o do this work exactly right. When incidents occur, we immediately
+eport them to oversight bodies and develop appropriate solutions. We
+never stop putting improvements in place while carrying out our critical
+mission.
+
+statement PRISM privacy surveillance FISA 702 Foreign
+Intelligence Surveillance Act Court Section 702 downstream stop
+stopping upstream CLPO civil liberties 2017
+
+NSA.GOV CULTURE HELPFUL LINKS RESOURCES RELATED LINKS
+About Core Values NSA Freedom of Information Act Classified Materiel Conversion DNI.gov
+
+Privacy Act Requests Commercial Solutions for Def
+Classified Program (CSfC) erense.gov
+
+Cryptographic Support Services IC on the Record
+
+Leadership Operating Authorities
+
+Cybersecurity Collaboration Civil Liberties, Privacy, & Request a Speaker
+
+Center Transparency Office p blication Revi
+Notional Cryptoloate Museum republication Review Media Destruction Guidance Intelligence.gov
+
+Diversity, Equity, Inclusion, &
+
+Contact NSA Accessibility Media Inquiry NSA Open Source
+
+Frequently Asked Questions
+
+Accessibility General Counsel NSA Exhibit Roadshow
+
+ABA Notice NSA Inspector General
+
+Site Policies
+
+Ye
+Privacy & Security Links Disclaimer Section508 WebPolicy Plain WritingAct DODIG NoFEARAct ImageryUse FOIA OpenGOV_ Strategic Plan USA.gov Small Business Act Site Map f y in EY
+
+Hosted by Defense Media Activity - WEB.mil

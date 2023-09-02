@@ -1,0 +1,126 @@
+= An official website of the United States government Here's how you know
+
+National Security Agency/Central security Service About PressRoom Careers History Search NSA
+
+HOME > PRESS ROOM > PRESS RELEASES & STATEMENTS > PRESS RELEASE VIEW
+
+ESF POTENTIAL
+THREATS TO 5G _
+NETWORK SLICING:
+
+PRESS RELEASE | Dec. 13, 2022
+
+ESF Members NSA and CISA
+Provide Threat Assessment, Best
+Practices for 5G Network Slicing
+
+FORT MEADE, Md. — Today, Enduring Security Framework (ESF) partners,
+along with experts from the National Security Agency (NSA) and
+Cybersecurity and Infrastructure Security Agency (CISA), published their
+assessment of potential threats associated with 5G network slicing and
+strategies to help keep this emerging tech secure.
+
+5G is the fifth-generation technology standard for broadband cellular
+networks. 5G technology can provide increased data download and
+upload speeds, lower latency, and allow more devices to connect to the
+internet at the same time.
+
+etwork slicing is a 5G network architecture which allows mobile service
+providers to divide their network up into several independent “slices” in
+order to create specific virtual networks that cater to different clients and
+use cases. Today's report specifically identifies management strategies
+
+o ensure the confidentiality, integrity, and availability of each networ
+slice.
+
+“The Department of Defense is transitioning 5G into its enterprise. Being
+able to do network slicing across the entire 5G system is a critical new
+capability that 5G provides over LTE. As important, the ability to use
+network slicing in a secure way is foundational if the Department is to
+take advantage of the feature at all,” said Andrew Thiessen, Chief
+Technologist, DOD 5G Cross Functional Team.
+
+[he threat and security considerations discussed in this assessment are
+intended for mobile service providers, hardware manufacturers, software
+developers, and system integrators that design, deploy, operate, or
+
+maintain 5G networks.
+
+Today's release led by NSA and CISA on behalf of the ESF, a public-private
+cross-sector working group, is intended to provide an informed
+methodology to design, deploy, operate, and maintain secure network
+slicing across private, hybrid, and public networks. This release builds
+upon the work previously published in the ESF Potential Threat Vectors to
+5G Infrastructure.
+
+See the other documents in the ESF 5G series below:
+e Potential Threat Vectors to 5G Infrastructure
+
+¢ Security Guidance for 5G Cloud Infrastructures: Prevent and Detect
+
+Lateral Movement (Part I)
+
+¢ Security Guidance for 5G Cloud Infrastructures: Securely Isolate
+
+Network Resources (Part II)
+
+I)
+
+¢ Security Guidance for 5G Cloud Infrastructures: Ensure Integrity of
+
+Cloud Infrastructure (Part IV)
+
+¢ Security Guidance for 5G Cloud Infrastructures: Data Protection (Part
+
+¢ Open Radio Access Network Security Considerations
+
+For more timely, unique and actionable cybersecurity guidance from NSA
+and our partners, visit our full library.
+
+If you have questions or want to learn more about ESF, please contact
+NSAESF@cyber.nsa.gov.
+
+NSA Media Relations
+MediaRelations@nsa.gov
+443-634-0721
+
+Related Press Advisories
+NSA, ODNI and CISA Release 5G Analysis Paper
+NSA and CISA provide cybersecurity guidance for 5G cloud infrastructures
+
+Enduring Security Framework Releases Part II of Security Guidance for 5G
+Cloud Infrastructures
+
+NSA and CISA publish third installment of 5G cybersecurity guidance
+
+ESF Members, NSA and CISA publish the fourth installment of 5G
+cybersecurity guidance
+
+ESF Members, NSA and CISA publish Open Radio Access Network Security
+Considerations
+
+Related Documents
+ESF: Potential Threats to 5G Network Slicing
+
+Enduring Security Framework ESF customers guidance Critical
+Infrastructure 5g 5G cellular network infrastructure
+
+NSA.GOV CULTURE HELPFUL LINKS RESOURCES RELATED LINKS
+About Core Values NSA Freedom of Information Act Classified Materiel Conversion DNI.gov
+
+. . a: Privacy Act Requests Commercial Solutions for
+Leadership Operating Authorities y q Classified Program (CSfC) Defense.gov
+
+Cybersecurity Collaboration Civil Liberties, Privacy, & Request a Speaker
+
+Center Cryptographic Support Services IC on the Record
+
+\Meisioeiteinesy Ones Prepublication Review
+
+National Cryptologic Museum Media Destruction Guidance Intelligence.gov
+
+Diversity, Equity, Inclusion, & ;
+Contact NSA Accessibility Media Inquiry NSA Open Source
+
+Accessibility General Counsel Frequently Asked Questions NSA Exhibit Roadshow
+

@@ -1,0 +1,83 @@
+An official website of the United States government Here's how you know
+
+| National Security Agency/Central security Service About PressRoom Careers History Search NSA
+
+HOME > PRESS ROOM > PRESS RELEASES & STATEMENTS > PRESS RELEASE VIEW
+
+PRESS RELEASE | July 9, 2015
+
+NSA Shares Cyber Tool on Agency's
+Corporate GitHub Website
+
+FORT MEADE, Md. —
+A National Security Agency cyber tool that allows computer systems to
+maintain a specific security posture is now publicly available on GitHub, a
+website for sharing source code - making it easier for other government
+organizations and private industry to adopt the tool to help fortify thei
+networks against cyber threats.
+
+The technology - known as the Systems Integrity Management Platform,
+or SIMP - is considered a critical part of layered, "defense-in-depth"
+approaches to cybersecurity. NSA has increasingly shared its research
+with the open-source software community, a move that can accelerate
+he development of innovative capabilities and solutions in both the
+
+public and private sectors.
+
+SIMP is located on an NSA-wide GitHub page that the agency launched
+his spring: https://github.com/nationalsecurityagency. NSA‘s Information
+ssurance Directorate established a page in December 2013:
+
+https://github.com/iadgov.
+
+SIMP keeps networked systems compliant with given security standards.
+n recent years, multiple government and industry organizations have
+developed technologies similar to SIMP in response to U.S. Defense
+Department and Intelligence Community compliance requirements. By
+eleasing SIMP. the agency seeks to reduce duplication of effort and
+promote greater collaboration within the community: The wheel would
+not have to be reinvented for every organization.
+
+"The open-source software method of transferring technology from the
+federal laboratory to the marketplace is extremely efficient,’ said Linda
+Burger, Director of the NSA Technology Transfer Program. "The open-
+source community can leverage the work that NSA has produced, and
+the government can benefit from that community's expertise and
+perspective. It's a win for everyone - and for the nation itself."
+
+The NSA Technology Transfer Program makes it possible for the
+agency's innovators to share their technologies with industry, academia,
+and other federal agencies. The federally mandated program brokers
+collaboration agreements that protect intellectual property, advance time-
+sensitive mission requirements, promote the sharing of expertise, and
+foster economic growth. More information about TTP is available online.
+
+2015 transparency Press Release news github NSA
+National Security Agency Systems Integrity Management Platform SIMP Tech
+Transfer research Information Assurance cybersecurity
+
+NSA.GOV CULTURE HELPFUL LINKS RESOURCES RELATED LINKS
+About Core Values NSA Freedom of Information Act Classified Materiel Conversion DNI.gov
+
+. . a: Privacy Act Requests Commercial Solutions for
+Leadership Operating Authorities Y q Classified Program (CSfC) Defense.gov
+
+Cybersecurity Collaboration Civil Liberties, Privacy, & Request a Speaker
+
+Cent Cryptographic Support Services IC on the Record
+emer Transparency Office p blication Revi
+National Cryptologic Museum repunication Keview Media Destruction Guidance Intelligence.gov
+
+Diversity, Equity, Inclusion, &
+
+Contact NSA Accessibility Media Inquiry NSA Open Source
+Frequently Asked Questions NSA Exhibit Roadshow
+
+Accessibility General Counsel
+ABA Notice NSA Inspector General
+
+Site Policies
+
+Privacy & Security Links Disclaimer Section508 WebPolicy Plain WritingAct DODIG NoFEARAct ImageryUse FOIA OpenGOV_ Strategic Plan USA.gov Small Business Act Site Map
+
+Hosted by Defense Media Activity - WEB.mil
