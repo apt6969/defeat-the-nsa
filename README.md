@@ -1,1 +1,1 @@
-https://www.aiwebassist.com/home/how-to-defeat-america
+i didn't realize the press releases were so scary to download
